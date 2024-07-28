@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hello, I am a sophomore studying computer science at Michigan State University. I am currently learning front-end web development and am also interested in machine learning.
+Hello, I am a sophomore studying computer science at Michigan State University. I am currently learning full-stack web development
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [koyamare@msu.edu](mailto:koyamare@msu.edu)
