@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Reita Koyama
 ====================================================================================================================================
 
-Frontend Developer
+
 ------------------
 
-Hello, I am a sophomore studying computer science at Michigan State University. I am currently learning full-stack web development
+Hello, I am a sophomore studying data science at the University of Michigan. I am currently learning full-stack web development
 
-* 🌍  I'm based in United States
-* ✉️  You can contact me at [koyamare@msu.edu](mailto:koyamare@msu.edu)
+* 🌍  I'm based in the United States
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 
