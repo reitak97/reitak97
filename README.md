@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ------------------
 
-Hello, I am a sophomore studying data science at the University of Michigan. I am currently learning full-stack web development
-
-* 🌍  I'm based in the United States
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
+Hello, I am a junior studying computer science at the University of Michigan
 
 ### Skills
 
